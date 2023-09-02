@@ -1,0 +1,122 @@
+.personal_details{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 55px;
+    margin-left: 35px;
+    color: black;
+}
+.loca_de{
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+}
+.loca{
+
+    height: 50px;
+    width: 50px;
+}
+.lo_na{
+    margin: 0;
+    padding-top: 15px;
+    padding-left: 10px;
+    color: rgb(0, 102, 255);
+}
+.lo_de{ 
+    /* margin-left: 15px; */
+    color: black;
+    font-size: 21px;
+}
+.outer{
+    max-width: 730px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    /* background-image: url(./pro/ba_gr.gif); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
+    box-shadow: 2px 2px 2px 4px gainsboro;
+    color: blue;
+}
+.h1{
+    color: black;
+    font-weight:1000 ;
+    font-size: x-large;
+    text-align: center;
+}
+.te{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.in_sub{
+    border-radius:5px;
+    border-width: 0;
+    background-color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+     width: 700px;
+}
+.but{
+    margin-top: 20px;
+}
+.button{
+    /* margin:5px 50px 5px 6px; */
+    border-color: blue;
+    background-color: blue;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.map_ed{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.map{
+    box-shadow: 2px 2px 2px 4px gainsboro;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1300px;
+}
+.per_ed{
+    margin-left: 100px;
+    color: black;
+}
+.bo_de{
+    margin:0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.fi_row{
+    padding-top:150px;
+}
+.clg-dept
+{
+  width: 130px;
+  margin-left:30px;
+  color:white;
+  font-family:arial;
+  font-size:14px;
+  line-height: 20px;;
+}
+h1{
+    color: white;
+}

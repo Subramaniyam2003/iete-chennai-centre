@@ -1,0 +1,26 @@
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+  .tooltip .tooltiptext {
+    visibility: hidden;
+  width: 120px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  text-align: center;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  }
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  .ho{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+  }
+a:hover{
+    background-color: rgb(46, 46, 90);
+}

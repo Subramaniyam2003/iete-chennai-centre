@@ -1,0 +1,431 @@
+.about-block
+{
+  margin-top: 100px;
+  background-color: white;
+  max-width:100%;
+  height:auto;
+}
+
+.Navigation-block
+{
+  top:0px;
+  left:0px;
+  right:0px;
+  display:flex;
+  flex-wrap: wrap;
+  width:100%;
+ 
+  background-color: #001f4d;
+  gap: 15px;
+  position:fixed;
+}
+
+.clg-logo
+{
+  height:50px;
+  margin-left:30px;
+  margin-top:25px;
+}
+
+.clg-name
+{
+  margin-left:1px;
+  color:white;
+  margin-top:32px;
+  font-family:arial;
+  font-size: xx-large;
+}
+
+.clg-dept
+{
+  width: 130px;
+  margin-left:16px;
+  color:white;
+  font-family:arial;
+  font-size:14px;
+  line-height: 20px;;
+
+}
+
+.home
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.about
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.exe
+{
+  font-family: arial;
+  font-size:21px;
+  width:80px;
+  line-height: 23px;
+  margin-top:25px;
+  color:white;
+  font-family:arial;
+}
+
+.eve
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.Mem
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.che
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.che-link
+{
+  font-family: arial;
+  font-size:21px;
+  width:80px;
+  margin-top:25px;
+  line-height: 25px;
+  color:white;
+  font-family:arial;
+}
+
+.contact
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+  margin-left:25px;
+}
+
+.nav
+{
+ top:0px;
+ left:0px;
+ margin:0px;
+ margin-top:100px;
+ height: 65px;
+ width:100%;
+ background-color: #003380;
+}
+
+.abo
+{ 
+  
+  margin-top: 10px;
+  font-family:arial;
+  color:white;
+  font-weight:lighter;
+}
+
+.Info-block
+{
+ display:flex;
+ 
+
+}
+
+.cl-name
+{
+ font-family:arial;
+ font-size:45px;;
+ font-weight:bold;
+ line-height: 150px;
+ color:black;
+}
+.Info
+{
+ margin-top:90px;
+ margin-left:180px;
+ font-size:18px;
+ font-family:arial;
+ text-align: justify;
+ width:620px;
+ line-height:30px;
+ color:gray;
+}
+
+.student-pic
+{
+  transition:0.5em;
+  width:550px;
+  height:400px;
+  margin-left:30px;
+  margin-top:100px;
+}
+
+.center
+{
+  font-size: 25px;
+  margin-left:180px;
+  font-family: arial;
+  font-weight: light;
+}
+
+.content-block
+{
+ display:flex;
+}
+.left{
+  transition: 0.5em;
+  font-size:18px;
+  font-family:arial;
+  width: 500px;
+  margin-left:180px;
+  text-align: justify;
+  line-height:23px;
+  color:gray;
+}
+
+.chennai
+{
+  font-size:18px;
+  font-family:arial;
+  width: 500px;
+  margin-left:180px;
+  text-align: justify;
+  line-height:23px;
+  color:gray;
+}
+
+.right-block
+{
+  margin-left:30px;
+}
+
+.goal
+{
+  font-size: 25px;
+  font-family: arial;
+  font-weight: light;
+}
+
+.vision-block
+{
+  font-size:18px;
+  font-family:arial;
+  width: 500px;
+  text-align: justify;
+  line-height:23px;
+  color:gray;
+}
+
+.Mission-block
+{
+  font-size:18px;
+  font-family:arial;
+  width: 500px;
+  text-align: justify;
+  line-height:23px;
+  color:gray;
+}
+
+.Motives-block
+{
+  font-size:18px;
+  font-family:arial;
+  width: 500px;
+  text-align: justify;
+  line-height:23px;
+  color:gray;
+}
+
+span
+{
+ font-weight:bold;
+ color:black;
+}
+
+.Experience-block
+{
+  display:flex;
+  justify-content: flex-start;
+  text-align: center;   
+  background-color: #f3f2f2;
+  margin-top: 50px;
+  height:200px;
+}
+
+.Students-block
+{
+ margin-left: 180px;
+ margin-top:40px; 
+}
+.project-count
+{
+  margin:0px;
+  font-size: 4.4rem;
+  color:#003380;
+}
+
+.S
+{
+ margin:0px;
+ font-size: 25px;
+ font-size: arial;
+ color:black;
+ font-family: arial;
+}
+
+
+.cl-list-block
+{
+  display:grid;
+  grid-column-gap:20px;
+  grid-template-columns:400px 400px 400px;
+  grid-template-rows: 110px 110px 110px;
+  
+  
+}
+
+.cl-block
+{
+  display:flex;
+  transition:0.5s;
+  height:40px;
+  width:360px;
+  padding:20px;
+  box-shadow: 1px 1px 8px rgb(192, 189, 189);
+  margin-top:10px;
+  margin-left:150px;
+}
+
+.cl-block:hover
+{
+  background-color: rgba(167, 241, 241, 0.533);
+}
+
+.cl-block:active
+{
+ opacity: 10px;
+ box-shadow: 1px 1px 9px greenyellow;
+}
+
+.list
+{
+
+}
+
+.logo
+{
+  width:40px;
+  height:40px;
+  margin-top:5px;
+}
+
+.cl
+{
+ margin:0px;
+ margin-left:10px;
+ margin-top:5px;
+ font-size: 15px;
+ display: flex;
+ flex-wrap: wrap;
+ font-family:arial;
+ font-weight: bold;
+ color:rgb(63, 59, 59)
+}
+
+.name
+{
+color:white;
+margin-top:40px;
+margin-left:180px;
+font-family:arial;
+font-size:xx-large;
+}
+
+.address
+{
+ margin:0px;
+ color:gray;
+ margin-top:50px;
+ margin-left:180px;
+}
+
+.phone
+{
+  color:gray;
+ margin-top:40px;
+ margin-left:180px;
+}
+
+.email
+{
+  color:gray;
+  margin-top:10px;
+  margin-left:180px;
+}
+
+.l1
+{
+  text-decoration:none;
+  margin-left:100px;
+  margin-top:15px;
+  color:rgb(211, 206, 206);
+}
+.l1:hover
+{
+  cursor: pointer;
+  color:rgb(90, 90, 251);
+}
+
+.bottom
+{
+  display:flex;
+  margin:0px;
+  background-color:black;
+  height:80px; 
+}
+
+.Copyright
+{
+  margin:0px; 
+  color:white;
+  margin-top:30px;
+  margin-left: 300px;
+}
+
+
+@keyframes clg{
+  from {top: 200px;}
+  to {top: 0px; }
+}
+
+@keyframes clg-photo {
+  from {bottom:100px;}
+  to { transform: translate(100px,50px);}
+}
+
+footer{
+  position: absolute;
+}
+a{
+  text-decoration: none;
+}

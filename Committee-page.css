@@ -1,0 +1,215 @@
+.about-block
+{
+  background-color: white;
+  max-width:100%;
+  height:auto;
+  position:relative;
+}
+
+.Navigation-block
+{
+ top:0px;
+ left:0px;
+ right:0px;
+ display:flex;
+ flex-wrap: wrap;
+ width:100%;
+
+ background-color: #001f4d;
+ gap:10px;
+ position:fixed;
+}
+
+.clg-logo
+{
+  height:50px;
+  margin-left:100px;
+  margin-top:25px;
+}
+
+.clg-name
+{
+  margin-left:1px;
+  color:white;
+  margin-top:32px;
+  font-family:arial;
+  font-size: xx-large;
+}
+
+.clg-dept
+{
+  width: 130px;
+  margin-left:16px;
+  color:white;
+  font-family:arial;
+  font-size:14px;
+  line-height: 20px;;
+
+}
+
+.home
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.about
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.exe
+{
+  font-family: arial;
+  font-size:21px;
+  width:80px;
+  line-height: 23px;
+  margin-top:25px;
+  color:white;
+  font-family:arial;
+}
+
+.eve
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.Mem
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.che
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+}
+
+.che-link
+{
+  font-family: arial;
+  font-size:21px;
+  width:80px;
+  margin-top:25px;
+  line-height: 25px;
+  color:white;
+  font-family:arial;
+}
+
+.contact
+{
+  font-family: arial;
+  font-size:21px;
+  margin-top:40px;
+  color:white;
+  font-family:arial;
+  margin-left:25px;
+}
+
+.nav
+{
+ top:0px;
+ left:0px;
+ margin:0px;
+ margin-top:105px;
+ height: 65px;
+ width:100%;
+ background-color: #003380;
+}
+
+.abo
+{ 
+  margin:0px;
+  margin-top: 10px;
+  margin-left: 600px;
+  font-family:arial;
+  color:white;
+  font-weight:lighter;
+}
+
+
+.name
+{
+color:white;
+margin-top:40px;
+margin-left:180px;
+font-family:arial;
+font-size:xx-large;
+}
+
+.address
+{
+ margin:0px;
+ color:gray;
+ margin-top:50px;
+ margin-left:180px;
+}
+
+.phone
+{
+  color:gray;
+ margin-top:40px;
+ margin-left:180px;
+}
+
+.email
+{
+  color:gray;
+  margin-top:10px;
+  margin-left:180px;
+}
+
+.l1
+{
+  margin-left:100px;
+  margin-top:15px;
+  color:rgb(211, 206, 206);
+}
+.l1:hover
+{
+  cursor: pointer;
+  color:rgb(90, 90, 251);
+}
+
+.bottom
+{
+  display:flex;
+  margin:0px;
+  background-color:black;
+  height:80px; 
+}
+
+.Copyright
+{
+  margin:0px; 
+  color:white;
+  margin-top:30px;
+  margin-left: 300px;
+}
+a{
+  text-decoration: none;
+}
+.member1{
+  color: black;
+}
+.status{
+  color: black;
+}
